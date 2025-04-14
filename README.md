@@ -1,1 +1,1 @@
-# seminar-ML-FPGA-SanLuis2025
+# Seminar ML+SoC - San Luis, Argentina - 2025 -
